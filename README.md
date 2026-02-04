@@ -1,10 +1,9 @@
 # Sarah Falcon Leon
 
-**Full Stack Engineer | AI-Augmented Development | 7+ years building scalable systems**
+**Full Stack Engineer | 7+ years | Canary Islands**
 
-I'm a software engineer driven by curiosity and a constant desire to evolve. Started in Frontend, expanded into Backend and Infrastructure, and now I actively integrate AI tools into my workflow to build smarter, faster, and cleaner.
-
-Currently leading AI product development, working at the intersection of engineering, automation, and modern tooling.
+Building scalable systems with TypeScript, Node.js, and AWS.
+I integrate AI tools like Claude Code into my daily workflow to ship faster and cleaner code.
 
 ---
 
