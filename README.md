@@ -37,14 +37,6 @@ Currently leading AI product development, working at the intersection of enginee
 
 ---
 
-### Currently
-
-- Leading R&D+i for an AI-powered product at Next Change Assets
-- Implementing AI-assisted workflows with Claude Code
-- Building scalable full-stack systems with TypeScript, Python, and AWS
-
----
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-falc%C3%B3n-le%C3%B3n/)
