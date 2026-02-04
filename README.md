@@ -38,6 +38,7 @@ I integrate AI tools like Claude Code into my daily workflow to ship faster and 
 
 ### Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=flat&logo=astro&logoColor=white)](https://sarahfalcon.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-falc%C3%B3n-le%C3%B3n/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sarahfalconleon@gmail.com)
 
